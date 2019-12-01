@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","Mousetrap","init"],"mappings":";;;;;;;AAAAA,QACC,eACC,SAASC,GAEP,OADAA,EAAUC,OACHD","file":"../main.js","sourcesContent":["define([\r\n\t\"./Mousetrap\"\r\n],function(Mousetrap){\r\n    Mousetrap.init();\r\n    return Mousetrap;\r\n});"]}
